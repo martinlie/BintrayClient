@@ -9,6 +9,6 @@ In your platformio.ini file, add:
 
 ```
 lib_deps = 
-    https://github.com/bblanchon/ArduinoJson
+    ArduinoJson
     https://github.com/martinlie/BintrayClient
 ```
